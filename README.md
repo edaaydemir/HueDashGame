@@ -16,12 +16,16 @@
 ## 🚀 Installation  
 To run the project locally, use:  
 ```sh
-git clone https://github.com/yourusername/HueDash.git
+git clone https://github.com/HueDash.git
 cd HueDash
 flutter pub get
-flutter run
+flutter run   
+ ```
 
-## 🔧 Requirements
+🔧 Requirements
 Flutter: 3.29.1
 Dart: 3.7.0
 Android NDK: 27.0.12077973
+
+
+> This project was inspired by an existing demo I modified and worked on to create my own version of the game.
