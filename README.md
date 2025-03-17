@@ -29,6 +29,11 @@ Android NDK: 27.0.12077973
 
 
 > This project was inspired by an existing demo I modified and worked on to create my own version of the game.
+> 
+## 📸 Screenshots  
 
+### Main Menu  
 ![Ekran görüntüsü 2025-03-17 143508](https://github.com/user-attachments/assets/860a480c-2091-43d0-ad01-cf4d3f2cf409)
+
+### Gameplay  
 ![Ekran görüntüsü 2025-03-17 143439](https://github.com/user-attachments/assets/ddf52ff7-21d3-4069-ab34-4211c81e92cc)
