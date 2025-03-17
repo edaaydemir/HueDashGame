@@ -16,7 +16,7 @@
 ## 🚀 Installation  
 To run the project locally, use:  
 ```sh
-git clone https://github.com/HueDash.git
+git clone https://github.com/edaaydemir/HueDashGame
 cd HueDash
 flutter pub get
 flutter run   
