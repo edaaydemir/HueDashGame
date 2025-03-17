@@ -33,7 +33,7 @@ Android NDK: 27.0.12077973
 ## 📸 Screenshots  
 
 ### Main Menu  
-![Ekran görüntüsü 2025-03-17 143508](https://github.com/user-attachments/assets/860a480c-2091-43d0-ad01-cf4d3f2cf409)
+![Ekran görüntüsü 2025-03-17 143439](https://github.com/user-attachments/assets/ddf52ff7-21d3-4069-ab34-4211c81e92cc)
 
 ### Gameplay  
-![Ekran görüntüsü 2025-03-17 143439](https://github.com/user-attachments/assets/ddf52ff7-21d3-4069-ab34-4211c81e92cc)
+![Ekran görüntüsü 2025-03-17 143508](https://github.com/user-attachments/assets/860a480c-2091-43d0-ad01-cf4d3f2cf409)
